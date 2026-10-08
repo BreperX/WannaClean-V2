@@ -1,0 +1,14 @@
+{
+  "name": "wannaclean-v2",
+  "version-string": "2.0.0",
+  "dependencies": [
+    {
+      "name": "imgui",
+      "features": [
+        "dx11-binding",
+        "win32-binding"
+      ]
+    },
+    "nlohmann-json"
+  ]
+}
